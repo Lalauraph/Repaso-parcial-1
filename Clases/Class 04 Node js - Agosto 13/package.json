@@ -1,0 +1,19 @@
+{
+	"name": "class-04-node-js---agosto-13",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "serve"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"serve": "^14.2.3"
+	},
+	"dependencies": {
+		"lodash": "^4.17.21"
+	}
+}

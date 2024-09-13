@@ -1,0 +1,32 @@
+/*Clases*/
+.description,
+.goodbye {
+	color: black;
+}
+
+.goodbye {
+	color: brown;
+}
+
+/*Para acceder a etiquetas que ya existen, que tienen algo en comun, estilos que se compartan*/
+section {
+	background-color: bisque;
+}
+
+p {
+	color: aquamarine;
+}
+
+h1 {
+	content: icon;
+}
+
+/*Ids*/
+#description {
+	color: black;
+}
+
+/*Global*/
+* {
+	background-color: blueviolet;
+}
